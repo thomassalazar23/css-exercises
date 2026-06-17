@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.inverted,
+.crazy {
+    font-size: 28px;
+    font-family: Helvetica, sans-serif, 'Times New Roman';
+}
+
+.inverted {
+    color: white;
+    background-color: black;
+}
+
+.crazy {
+    background-color: yellow;
+}
